@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\bin\Debug\net6.0\Task1SringArrays.exe
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\bin\Debug\net6.0\Task1SringArrays.deps.json
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\bin\Debug\net6.0\Task1SringArrays.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\bin\Debug\net6.0\Task1SringArrays.dll
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\bin\Debug\net6.0\Task1SringArrays.pdb
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.dll
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\refint\Task1SringArrays.dll
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.pdb
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\Task1SringArrays.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\ControlWork\Task1SringArrays\obj\Debug\net6.0\ref\Task1SringArrays.dll
